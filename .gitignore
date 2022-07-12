@@ -1,0 +1,4 @@
+client/node_modules
+client/.env
+
+smart_contract/node_modules
